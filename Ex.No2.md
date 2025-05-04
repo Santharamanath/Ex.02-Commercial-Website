@@ -296,10 +296,11 @@ Upload to GitHub Pages for free hosting.
 ```
 ## OUTPUT
 
+![Screenshot 2025-05-04 102326](https://github.com/user-attachments/assets/d48dce02-5d83-4e24-bad5-23b0a71e8046)
 ![Screenshot 2025-05-04 102337](https://github.com/user-attachments/assets/b149c058-902d-42fc-8b41-b39402f35068)
 ![Screenshot 2025-05-04 102351](https://github.com/user-attachments/assets/7f1a7fa3-f8c8-48e8-ab2a-0c24ee000f28)
 ![Screenshot 2025-05-04 102410](https://github.com/user-attachments/assets/f0f63eb4-eb70-42f3-87f7-decba1048dc6)
-![Screenshot 2025-05-04 102326](https://github.com/user-attachments/assets/d48dce02-5d83-4e24-bad5-23b0a71e8046)
+
 
 
 ## RESULT
